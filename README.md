@@ -1,3 +1,2 @@
 # Traffic-Project
-My Master thesis \n
-Codes Order:
+My Master thesis
